@@ -6,7 +6,9 @@ Utilized auto py to exe, no additional files needed to get the program running
 Install:
 Window + R > cmd (enter)
 > python (enter and install from store)
+
 download this repo > unzip > Shift + Right click > open shell windows here
+
 > pip install -r requirements.txt
 
 Run:
