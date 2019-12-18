@@ -3,6 +3,12 @@ PoE Market Scanner
 Written in Python 3
 Utilized auto py to exe, no additional files needed to get the program running
 
+Install:
+> pip install requirements.txt
+
+Run:
+> python Hermet.py
+
 Features:
   - Public stash tab api search
   - Live filter during search (armor, weapon, accessories, maps, cards, currency, vaaled items, sale % threshold)
