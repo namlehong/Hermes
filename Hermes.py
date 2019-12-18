@@ -801,7 +801,7 @@ padding = Label(topFrame, text="", bg='#111111')
 padding.pack(side=LEFT)
 
 var = StringVar(root)
-var.set("Blight")  # initial value
+var.set("Metamorph")  # initial value
 option = OptionMenu(topFrame, var, "Blight", "Hardcore Blight","Standard", "Hardcore")
 option.configure(height=4, bd = 1, fg="#d0d0d0", bg = 'grey20', activebackground= 'grey20',cursor = "hand2", indicator=0)
 option["menu"].config(bg="grey30")
